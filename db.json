@@ -22,5 +22,9 @@
       "status": "Active"
     }
   ],
-  "income": {}
+  "income": {
+    "today": 0,
+    "thisMonth": 0,
+    "thisYear": 0
+  }
 }
